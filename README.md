@@ -1,2 +1,2 @@
 
-# Layout feito pelo android studeo de um app de noticias
+# Layout feito pelo android studio de um app de noticias em java
